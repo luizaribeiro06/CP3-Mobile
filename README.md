@@ -63,12 +63,12 @@ src/
 ```
 
 ## Prints
-<!-- Coloque os prints em docs/ e confira os nomes -->
-![Web](assets/web_home.png) 
-![Web](assets/web_matricula.png) 
-![Web](assets/web_minha_matricula.png)
-![Android](assets/android_home.png)
-![iOS](assets/ios_matricula.png)
+<img width="337" height="716" alt="android_home" src="https://github.com/user-attachments/assets/3eb6ec6c-3ff9-404c-816d-1b11ae67f95f" />
+<img width="367" height="765" alt="ios_matricula" src="https://github.com/user-attachments/assets/df4c3e68-b81f-4d27-963c-bd4b1854c9b6" />
+<img width="1592" height="856" alt="web_home" src="https://github.com/user-attachments/assets/39fdefe8-954f-45b3-ac6b-35afab6137a1" />
+<img width="1527" height="861" alt="web_matricula" src="https://github.com/user-attachments/assets/b9e5c86d-5338-42a4-a57d-7a7dd97e47f5" />
+<img width="1562" height="852" alt="web_minha_matricula" src="https://github.com/user-attachments/assets/ecaae12a-dcbf-45c9-8903-4a4c2e4adc60" />
+
 
 ## Integrantes
 - Gabrielly Candido RM: 560916
